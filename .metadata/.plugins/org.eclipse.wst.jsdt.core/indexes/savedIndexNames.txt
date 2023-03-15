@@ -1,0 +1,10 @@
+INDEX VERSION 1.4+/home/harikrashna/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3460867508.index
+4280450878.index
+3817630448.index
+430192978.index
+430192978.index
+4179426927.index
+3901201992.index
+2252201345.index
+1107007554.index

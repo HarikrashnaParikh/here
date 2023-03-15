@@ -1,0 +1,66 @@
+package com.harikrashna.springdemo.dao;
+
+import java.util.List;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.query.Query;
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.harikrashna.springdemo.entity.Mobile;
+
+
+public class MobileDAOImpl implements MobileDAO {
+	
+	@Autowired
+	private SessionFactory sessionFactory;
+
+	@Override
+	public List<Mobile> getMobiles() {
+		//get the current hibernate session
+		Session currentSession = sessionFactory.getCurrentSession();
+				
+				
+		//create a query................Sort by name
+		Query<Mobile> theQuery = currentSession.createQuery("from mobile",Mobile.class);
+				
+				
+				
+		//execute query and get result list
+		List<Mobile> mobile = theQuery.getResultList();
+				
+				
+				
+		//return the result
+		return mobile;
+	}
+
+	@Override
+	public void saveMobile(Mobile theMobile) {
+		//get the current hibernate session
+				Session currentSession = sessionFactory.getCurrentSession();
+				
+				//save the user...... finally..lol....
+				//for decision user data to be save or update 
+		currentSession.saveOrUpdate(theUser);
+	}
+
+	@Override
+	public Mobile getUser(int theId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteUser(int theId) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public List<Mobile> searchUsers(String theSearchName) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

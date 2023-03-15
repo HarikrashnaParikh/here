@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/home/harikrashna/All Source Code Download/Spring REST/solution-code-jackson-databinding-json-demo-02-nested-objects"/>
+			<item value="/home/harikrashna/All Source Code Download/Spring REST/solution-code-jackson-databinding-json-demo-01-procesing-json"/>
+			<item value="/home/harikrashna/Downloads/solution-code-spring-security-demo-05-logout/src"/>
+			<item value="/home/harikrashna/Downloads/solution-code-spring-security-demo-05-logout"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

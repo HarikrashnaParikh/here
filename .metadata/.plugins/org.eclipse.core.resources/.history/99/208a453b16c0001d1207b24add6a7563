@@ -1,0 +1,9 @@
+package com.harikrashna.springdemo.entity;
+
+
+@Entity
+@Table("user")
+public class User { 
+	
+
+}

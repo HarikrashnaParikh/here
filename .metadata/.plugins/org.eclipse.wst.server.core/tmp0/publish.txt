@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Wed Mar 15 10:48:38 IST 2023
+org.eclipse.jst.jee.server\:/binary\:/home/harikrashna/eclipse-workspace/contact_directory/src/main/webapp/WEB-INF/lib/spring-web-5.3.9.jar=WEB-INF/lib/spring-web-5.3.9.jar
+org.eclipse.jst.jee.server\:/binary\:/home/harikrashna/eclipse-workspace/ContactData/src/main/webapp/WEB-INF/lib/spring-web-5.3.9.jar=WEB-INF/lib/spring-web-5.3.9.jar
+org.eclipse.jst.jee.server\:/binary\:/home/harikrashna/eclipse-workspace/ContactData/src/main/webapp/WEB-INF/lib/spring-web-5.3.9-sources.jar=WEB-INF/lib/spring-web-5.3.9-sources.jar
+org.eclipse.jst.jee.server\:/binary\:/home/harikrashna/eclipse-workspace/contact_directory/src/main/webapp/WEB-INF/lib/spring-web-5.3.9-sources.jar=WEB-INF/lib/spring-web-5.3.9-sources.jar

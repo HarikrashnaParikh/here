@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ContactData/src/main/webapp/resources/css/add-customer-style.css&apos; to &apos;add-user-style.css&apos;" description="Rename resource &apos;add-customer-style.css&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/resources/css/add-customer-style.css" name="add-user-style.css" stamp="1678612532622" updateReferences="true"/>
+</session>

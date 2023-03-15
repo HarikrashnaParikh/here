@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author harikrashna
+ *
+ */
+module Maven {
+}

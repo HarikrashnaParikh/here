@@ -1,0 +1,5 @@
+package com.harikrashna.springdemo.dao;
+
+public interface MobileDAO {
+
+}

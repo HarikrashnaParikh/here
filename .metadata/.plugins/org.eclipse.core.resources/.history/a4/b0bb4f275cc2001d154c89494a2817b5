@@ -1,0 +1,41 @@
+package com.harikrashna.springdemo.dao;
+
+import java.util.List;
+
+import com.harikrashna.springdemo.entity.Mobile;
+
+public class MobileDAOImpl implements MobileDAO {
+	
+	privat
+
+	@Override
+	public List<Mobile> getMobiles() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void saveUser(Mobile theMobile) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public Mobile getUser(int theId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteUser(int theId) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public List<Mobile> searchUsers(String theSearchName) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

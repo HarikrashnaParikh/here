@@ -1,0 +1,6 @@
+package com.harikrashna.springdemo.dao;
+
+public interface UserDAO {
+	
+
+}

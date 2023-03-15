@@ -1,0 +1,11 @@
+package com.harikrashna.springdemo.entity;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table("user")
+public class User { 
+	
+
+}

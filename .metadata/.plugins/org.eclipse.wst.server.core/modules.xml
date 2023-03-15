@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:contact_directory" serverId="apache-tomcat-9.0.65 at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:ContactData" serverId="apache-tomcat-9.0.65 at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:spring-security-demo" serverId="apache-tomcat-9.0.65 at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:HariKrishnaLearn" serverId="apache-tomcat-9.0.65 at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:spring-security-demo-03-custom-login-form" serverId="apache-tomcat-9.0.65 at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:contactData" serverId="apache-tomcat-9.0.65 at localhost"/>
+</modules>

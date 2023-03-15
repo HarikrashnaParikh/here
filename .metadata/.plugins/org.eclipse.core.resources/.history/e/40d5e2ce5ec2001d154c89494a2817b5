@@ -1,0 +1,5 @@
+package com.harikrashna.springdemo.service;
+
+public interface MobileService {
+
+}

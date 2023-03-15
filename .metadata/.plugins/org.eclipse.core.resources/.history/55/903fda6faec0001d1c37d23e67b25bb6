@@ -1,0 +1,26 @@
+package com.harikrashna.springdemo.service;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import com.harikrashna.springdemo.entity.User;
+
+
+
+@Service
+public class UserServiceImpl implements UserService {
+
+	//need to inject User DAO
+	@Autowired
+	private UserDAO userDAO;
+	
+	
+	
+	@Override
+	public List<User> getUsers()
+	{
+		return null;
+	}
+
+}

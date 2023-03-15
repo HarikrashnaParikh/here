@@ -1,0 +1,6 @@
+package com.harikrashna.springdemo.controller;
+
+
+public class MobileController {
+
+}

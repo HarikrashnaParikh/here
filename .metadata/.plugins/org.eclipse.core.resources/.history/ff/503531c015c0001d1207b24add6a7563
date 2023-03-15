@@ -1,0 +1,7 @@
+package com.harikrashna.springdemo.entity;
+
+
+
+public class User {
+
+}
